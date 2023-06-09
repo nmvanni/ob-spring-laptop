@@ -8,6 +8,7 @@ public class ObRestDatajpaLaptopApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ObRestDatajpaLaptopApplication.class, args);
+
 	}
 
 }
